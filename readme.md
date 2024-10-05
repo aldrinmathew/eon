@@ -1,0 +1,3 @@
+# `eon` - ElectroPunk Object Notation
+
+Simple, effective, electric object notation for the electropunk world...
